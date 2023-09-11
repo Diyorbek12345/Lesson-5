@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: grey;
+}
+
+.box2 {
+  max-width: 200px;
+  padding: 20px;
+ margin-left: 700px;
+}
+
+.button{
+  padding: 10px 30px;
+  margin-top: 10px;
+  margin-left: 140px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+
+.modal {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  background-color: #000000a1;
+  align-items: center;
+  justify-content: center;
+  display: none;
+}
+
+.form-modal {
+  padding: 40px;
+  background-color: #fff;
+  width: 241px;
+}
+
+.delete-user{
+  padding: 10px 20px;
+  margin-right: 5px;
+  margin-top: 10px;
+  background-color: black;
+  color: wheat;
+}
+
+.inuts{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+
+}
+
+.button1{
+  padding: 10px 30px;
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+
+.Name{
+  color: white;
+}
+
+.text{
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.email{
+    color: white;
+}
+
+.edit-user{
+  padding: 10px 20px;
+  margin-right: 5px;
+    margin-top: 10px;
+  background-color: black;
+  color: wheat;
+}
+
+.wraer {
+  margin-left: 700px;
+  margin-top: 300px;
+}
+
+
+.inputs{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 200px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
